@@ -1,0 +1,26 @@
+
+body {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
